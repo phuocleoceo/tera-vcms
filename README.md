@@ -15,6 +15,10 @@
 
 </table>
 
-## Overview ️🎨
+## Detail
 
-<img alt="overview.png" src=".github/img/overview.png" height="400"/>
+Check `Tera VCMS.pdf`
+
+## Use Case ️🎨
+
+<img alt="usecase.png" src=".github/img/usecase.png" height="400"/>

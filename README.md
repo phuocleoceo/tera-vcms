@@ -1,4 +1,4 @@
-# JiPLC - Scrum Project Management
+# TERA VCMS - Video Content Management System
 
 ## Repositories 🔥
 
@@ -9,8 +9,10 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/65323507?v=4" width="100px;" alt=""/><br /><sub><b>Truong Minh Phuoc</b></sub><a href="https://github.com/phuocleoceo" title="Fullstack Dev">💻🛠</a>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/65323507?v=4" width="100px;" alt=""/><br /><sub><b>Truong Minh Phuoc</b></sub><a href="https://github.com/phuocleoceo" title="Backend Dev & Ops">💻🛠</a>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/107835265?v=4" width="100px;" alt=""/><br /><sub><b>Nguyen Dinh Tuan</b></sub><a href="https://github.com/ndtuan7921" title="Frontend Dev">💻</a>
   </tr>
+
 </table>
 
 ## Overview ️🎨
